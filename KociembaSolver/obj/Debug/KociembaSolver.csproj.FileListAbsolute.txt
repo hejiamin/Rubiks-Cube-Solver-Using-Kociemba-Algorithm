@@ -1,0 +1,13 @@
+C:\Users\pc\source\repos\KociembaSolver\KociembaSolver\bin\Debug\CubeSolution.exe.config
+C:\Users\pc\source\repos\KociembaSolver\KociembaSolver\bin\Debug\CubeSolution.exe
+C:\Users\pc\source\repos\KociembaSolver\KociembaSolver\bin\Debug\CubeSolution.pdb
+C:\Users\pc\source\repos\KociembaSolver\KociembaSolver\bin\Debug\TwoPhaseSolver.dll
+C:\Users\pc\source\repos\KociembaSolver\KociembaSolver\bin\Debug\TwoPhaseSolver.pdb
+C:\Users\pc\source\repos\KociembaSolver\KociembaSolver\obj\Debug\KociembaSolver.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\KociembaSolver\KociembaSolver\obj\Debug\KociembaSolver.Form1.resources
+C:\Users\pc\source\repos\KociembaSolver\KociembaSolver\obj\Debug\KociembaSolver.Properties.Resources.resources
+C:\Users\pc\source\repos\KociembaSolver\KociembaSolver\obj\Debug\KociembaSolver.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\KociembaSolver\KociembaSolver\obj\Debug\KociembaSolver.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\KociembaSolver\KociembaSolver\obj\Debug\KociembaSolver.csproj.CopyComplete
+C:\Users\pc\source\repos\KociembaSolver\KociembaSolver\obj\Debug\CubeSolution.exe
+C:\Users\pc\source\repos\KociembaSolver\KociembaSolver\obj\Debug\CubeSolution.pdb
